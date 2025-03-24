@@ -1,0 +1,33 @@
+gender          Gender of the respondent (e.g., Nam, Nữ)
+age             Age group (e.g., 18 - 20)
+entry_year      Year of university entry (e.g., K19)
+field_of_study  Field of study (e.g., Công nghệ Thông tin)
+most_used       Most used social media platforms (e.g., Facebook, TikTok, YouTube)
+usage           Total social media usage time per day (formatted as hh:mm:ss)
+usage_schedule  Schedule Preferred social media usage schedule (e.g., Buổi sáng, Buổi tối, Không có khung giờ cố định)
+device          Devices used for social media (e.g., Điện thoại di động, Máy tính xách tay)
+habits1       	Using social media for learning (score: 1-5).
+habits2       	Posting content on social media (score: 1-5).
+habits3       	Viewing others' content on social media (score: 1-5).
+habits4       	Other social media habits overview (score: 1-5).
+study1        	Distracted by social media while studying (score: 1-5).
+study2        	Using social media for learning and sharing (score: 1-5).
+study3        	Social media helps absorb knowledge (score: 1-5).
+study4        	Procrastinating due to social media (score: 1-5).
+mental1       	Anxiety when unable to use social media (score: 1-5).
+mental2       	Comparing oneself on social media (score: 1-5).
+mental3       	Feeling connected via social media (score: 1-5).
+mental4       	FOMO when not updating social media (score: 1-5).
+lifestyle1    	Staying up late for social media (score: 1-5).
+lifestyle2    	Prioritizing social media over real-world activities (score: 1-5).
+lifestyle3    	Difficulty managing time spent on social media (score: 1-5).
+lifestyle4    	Pressure from social media trends (score: 1-5).
+usagerate1    	Thinking about social media while offline (score: 1-5).
+usagerate2    	Using social media to avoid real problems (score: 1-5).
+usagerate3    	Irritation when reducing social media usage (score: 1-5).
+usagerate4    	Work/assignments delayed by social media (score: 1-5).
+usagerate5    	Failure to cut back on social media use (score: 1-5).
+usagerate6    	Negative impact on work/study from social media (score: 1-5).
+track_usage     Whether the respondent tracks their social media usage time (e.g., Có, Không)
+usage_per_day   Estimated social media usage time per day (formatted as hh:mm:ss)
+reduce         	Whether the respondent attempted to reduce social media usage (e.g., Có, Có nhưng không thành công, Không)
